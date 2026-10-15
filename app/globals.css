@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  background: #0e0f13;
+  color: #f2f0ea;
+  font-family: "Pretendard", "Noto Sans KR", system-ui, -apple-system, sans-serif;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* 큰 타이포 기본 */
+h1, h2 {
+  letter-spacing: -0.02em;
+}
