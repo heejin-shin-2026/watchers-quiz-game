@@ -55,9 +55,9 @@ export const QUESTIONS: Question[] = [
     answerIndex: 3,
   },
   {
-    question: "D램 계약가격 상승률은 2026년 1분기 93~98%에서 4분기 몇 % 수준으로 둔화될 전망인가?",
-    choices: ["30~35%", "20~25%", "10~15%", "5% 미만"],
-    answerIndex: 2,
+    question: "2026년 10월 13일 코스피 급락 당시 두 달 만에 발동된 것은?",
+    choices: ["매도 사이드카", "서킷브레이커", "매수 사이드카", "거래소 휴장"],
+    answerIndex: 0,
   },
 ];
 
