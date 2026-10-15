@@ -20,9 +20,9 @@ export const QUESTIONS: Question[] = [
     answerIndex: 1,
   },
   {
-    question: "2026년 10월 13일, 코스피가 장중 붕괴되며 내줬던 지수는?",
-    choices: ["5000선", "6000선", "7000선", "8000선"],
-    answerIndex: 1,
+    question: "Watchers 커피챗 자동 매칭, 한 조는 몇 명?",
+    choices: ["2명", "3명", "4명", "5명"],
+    answerIndex: 2,
   },
   {
     question: "2026년 3분기, 국내 기업 최초로 분기 영업이익 100조원을 돌파한 기업은?",
@@ -35,9 +35,9 @@ export const QUESTIONS: Question[] = [
     answerIndex: 1,
   },
   {
-    question: "중국 창신메모리(CXMT)가 2026년 10월 발표한 차세대 D램의 핵심 스펙은?",
-    choices: ["셀 면적 약 33% 축소", "동작 속도 2배 향상", "전력 소모 50% 절감", "판매 가격 33% 인하"],
-    answerIndex: 0,
+    question: "'나도 강사다' 최종 발표회의 전체 상금 규모는?",
+    choices: ["50만원", "100만원", "150만원", "200만원"],
+    answerIndex: 1,
   },
   {
     question: "2026년 10월, 브로드컴 CEO 혹 탄이 'AI 확장에서 가장 큰 제약'이라고 꼽은 것은?",
